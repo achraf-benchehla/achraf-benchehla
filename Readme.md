@@ -15,9 +15,9 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="logo-github/python.png" alt="python" height="50" /></a>  
 <a href="https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/" target="_blank"><img style="margin: 10px" src="logo-github/bash-logo.jpg" alt="BASH" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>      
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>   
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://tryhackme.com/" target="_blank"><img style="margin: 10px" src="logo-github/try-hack-me.png" alt="try hack me website" height="50" /></a>      
+<a href="https://www.kali.org/docs/policy/trademark/" target="_blank"><img style="margin: 10px" src="logo-github/kali.jpg" alt="OS kali linux" height="50" /></a>   
+<a href="https://portswigger.net/web-security" target="_blank"><img style="margin: 10px" src="logo-github/burpsuite.png" alt="burp" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
