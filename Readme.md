@@ -27,13 +27,13 @@
 <a href="https://nmap.org/" target="_blank"><img style="margin: 10px" src="logo-github/nmap.jpg" alt="nmap" height="50" /></a>  
 <a href="https://www.hackthebox.com/" target="_blank"><img style="margin: 10px" src="logo-github/HTB.png" alt="hack the box" height="50" /></a>  
 <a href="https://www.interpol.int/How-we-work/Innovation/Digital-forensics" target="_blank"><img style="margin: 10px" src="logo-github/images.png" alt="DIGITAL forensics" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<a href="https://sourceforge.net/projects/jadx.mirror/" target="_blank"><img style="margin: 10px" src="jadx.png" alt="XAMPP" height="50" /></a>  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 </div>
 
 </td><td valign="top" width="33%">
 <div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="" alt="soon" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="" alt="soon" height="50" /></a>  
 </div>
 
 </td></tr>
@@ -51,12 +51,12 @@
 
 ## Other
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YASSIR-S&show_icons=true&locale=en&layout=compact" alt="YASSIR-S"  /></p>
+<!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YASSIR-S&show_icons=true&locale=en&layout=compact" alt="achraf"  /></p>
   <br>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YASSIR-S&show_icons=true&locale=en" alt="YASSIR-S" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YASSIR-S&" alt="YASSIR-S" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YASSIR-S&show_icons=true&locale=en" alt="achraf" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YASSIR-S&" alt="achraf" /></p>
 
-
+-->
 
 <!--
 FOR HELP 
