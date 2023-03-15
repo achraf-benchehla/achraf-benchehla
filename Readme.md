@@ -16,17 +16,17 @@
 <a href="https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/" target="_blank"><img style="margin: 10px" src="logo-github/bash-logo.jpg" alt="BASH" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://tryhackme.com/" target="_blank"><img style="margin: 10px" src="logo-github/try-hack-me.png" alt="try hack me website" height="50" /></a>      
-<a href="https://www.kali.org/docs/policy/trademark/" target="_blank"><img style="margin: 10px" src="logo-github/kali.jpg" alt="OS kali linux" height="50" /></a>   
+<a href="https://www.kali.org/docs/policy/trademark/" target="_blank"><img style="margin: 10px" src="logo-github/linuxk.png" alt="OS kali linux" height="50" /></a>   
 <a href="https://portswigger.net/web-security" target="_blank"><img style="margin: 10px" src="logo-github/burpsuite.png" alt="burp" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
 <div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://linux.goffinet.org/administration/processus-et-demarrage/noyau-linux/" target="_blank"><img style="margin: 10px" src="logo-github/linux.jpg" alt="linux kernel" height="50" /></a>  
+<a href="https://nmap.org/" target="_blank"><img style="margin: 10px" src="logo-github/nmap.jpg" alt="nmap" height="50" /></a>  
+<a href="https://www.hackthebox.com/" target="_blank"><img style="margin: 10px" src="logo-github/HTB.png" alt="hack the box" height="50" /></a>  
+<a href="https://www.interpol.int/How-we-work/Innovation/Digital-forensics" target="_blank"><img style="margin: 10px" src="logo-github/images.png" alt="DIGITAL forensics" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 </div>
 
