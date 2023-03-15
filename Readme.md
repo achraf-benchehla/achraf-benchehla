@@ -41,10 +41,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/YASSIR-S" target="_blank">
+<a href="https://github.com/achraf-benchehla" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/yassie-salhi-98326126a/" target="_blank">
+<a href="https://www.linkedin.com/in/benchehla-achraf/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -59,7 +59,8 @@
 
 
 <!--
-**YASSIR-S/YASSIR-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FOR HELP 
+**ACHRAF-BENCHEHLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
