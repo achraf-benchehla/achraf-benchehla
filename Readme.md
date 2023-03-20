@@ -7,8 +7,7 @@
 - 🌱 I’m currently looking for an internship  
 
 - 📫 How to reach me **benchehlaachraf@gmail.com** **achraf.benchehla@ump.ac.ma**
-- <script src="https://tryhackme.com/badge/1381626"> badge
-- </script>
+- <img src="https://tryhackme-badges.s3.amazonaws.com/MR.7amid.png" alt="TryHackMe">
 
 
 ## My Skill Set  
