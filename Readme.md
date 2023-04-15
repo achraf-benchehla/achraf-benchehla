@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **benchehlaachraf@gmail.com** **achraf.benchehla@ump.ac.ma**
 - my account on tryhackme
-<img src="https://tryhackme-badges.s3.amazonaws.com/MR.7amid.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1381626"></script>   <img src="https://tryhackme-badges.s3.amazonaws.com/MR.7amid.png" alt="TryHackMe">
+
 
 
 
